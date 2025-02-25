@@ -1,6 +1,6 @@
 Hackathon Idea: "MedCaché – Blackout-Proof Medical Supply Chain"
 
-https://v0-futuristic-healthcare-frontend.vercel.app/
+https://b5dsxongqk3wkia19.lite.vusercontent.net/
 Problem:
 In underdeveloped communities, medical supply chains break down due to power outages, poor internet connectivity, and inefficient inventory tracking. Essential medicines, vaccines, and medical tools often go to waste or run out at critical times because of poor coordination.
 
